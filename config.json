@@ -10,3 +10,15 @@
     ]
   }
 ]
+[
+  {
+    "group": "Systems and Tools",
+    "materials": [
+      {
+        "topic": "Using the RDA Annotator",
+        "type": "PDF",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/3.3.7%20-%20Annotator%20support%20documentation%20-%20v0.2.pdf"
+      }
+    ]
+  }
+]
