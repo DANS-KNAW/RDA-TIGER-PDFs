@@ -6,6 +6,26 @@
         "topic": "FAQ",
         "type": "PDF",
         "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/3.5.8-3.6.0%20-%20V0.1%20-%20FAQs.pdf"
+      },
+      {
+        "topic": "WG Welcome Pack",
+        "type": "PDF",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/WG%20Welcome%20Pack%20v1.1.pdf"
+      },
+      {
+        "topic": "Base FAQs",
+        "type": "PDF",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/3.5.8%20-%20V1.0%20-%20FAQs.pdf"
+      }
+    ]
+  },
+  {
+    "group": "Systems and Tools",
+    "materials": [
+      {
+        "topic": "Using the RDA Annotator",
+        "type": "PDF",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/3.3.7%20-%20Annotator%20support%20documentation%20-%20v0.2.pdf"
       }
     ]
   },
