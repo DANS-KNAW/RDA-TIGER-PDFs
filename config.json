@@ -1,31 +1,76 @@
 [
   {
-    "group": "Guidance and Support",
+    "group": "Group Guidance and Support",
     "materials": [
       {
-        "topic": "3.5.8-3.6.0 - V0.1 - FAQs",
+        "topic": "Frequently Asked Questions",
         "type": "PDF",
-        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/3.5.8-3.6.0%20-%20V0.1%20-%20FAQs.pdf"
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/FAQs%20-%20V1.1.pdf"
       },
       {
-        "topic": "WG Welcome Pack v1.1",
+        "topic": "Working Group Welcome Pack",
         "type": "PDF",
         "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/WG%20Welcome%20Pack%20v1.1.pdf"
       },
       {
-        "topic": "3.5.8 - V1.0 - FAQs",
+        "topic": "Working Group Guidelines",
         "type": "PDF",
-        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/3.5.8%20-%20V1.0%20-%20FAQs.pdf"
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/Working%20Group%20Guidelines%20V0.3.pdf"
+      },
+      {
+        "topic": "Preferred Formats",
+        "type": "PDF",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/Preferred%20Formats%20for%20Dissemination%20and%20Preservation%20V1.0.pdf"
+      },
+      {
+        "topic": "Publication of Outputs",
+        "type": "PDF",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/Publication%20of%20Outputs%20-%20V0.3.pdf"
       }
     ]
   },
   {
-    "group": "Systems and Tools",
+    "group": "RDA Knowledge Base",
     "materials": [
       {
-        "topic": "3.3.7 - Annotator support documentation V1.0",
+        "topic": "Knowledge Base Documentation",
         "type": "PDF",
-        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/3.3.7%20-%20Annotator%20support%20documentation%20-%20v0.2.pdf"
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/Knowledge%20Base%20documentation%20-%20V1.1.pdf"
+      },
+      {
+        "topic": "Annotator Support Documentation",
+        "type": "PDF",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/RDA%20Annotator%20Guidelines%20-%20V1.1.pdf"
+      }
+    ]
+  },
+  {
+    "group": "Templates, Systems and Tools",
+    "materials": [
+      {
+        "topic": "Templates for Output Reports, Recommendations, Standards and Specifications",
+        "type": "PDF",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/Templates%20for%20Output%20Reports,%20Recommendations,%20Standards%20and%20Specifications%20-%20V0.3.pdf"
+      },
+      {
+        "topic": "Recommended Metadata Schema",
+        "type": "PDF",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/Minimum%20Metadata%20Schema%20V1.1.pdf"
+      },
+      {
+        "topic": "Vocabularies, Tag Lists, and Registries",
+        "type": "PDF",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/Tag%20Lists,%20Registries,%20and%20Vocabularies%20-%20V0.2.pdf"
+      }
+    ]
+  },
+  {
+    "group": "Additional Resources",
+    "materials": [
+      {
+        "topic": "Standards Development Recommendations from HSBooster",
+        "type": "PDF",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/HSBooster%20recommendation%20draft%2008-24.pdf"
       }
     ]
   }
