@@ -73,5 +73,50 @@
         "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/HSBooster%20recommendation%20draft%2008-24.pdf"
       }
     ]
+  },
+  {
+    "group": "Landscape Analyses",
+    "materials": [
+      {
+        "topic": "Africa",
+        "type": "HTML",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/Africa.html"
+      },
+      {
+        "topic": "Asia",
+        "type": "HTML",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/D3.5-LandscapeAnalysis_Asia.html"
+      },
+      {
+        "topic": "Australasia",
+        "type": "HTML",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/D3.5-LandscapeAnalysis_Australasia.html"
+      },
+      {
+        "topic": "Europe",
+        "type": "HTML",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/D3.5-LandscapeAnalysis_Europe.html"
+      },
+      {
+        "topic": "North America",
+        "type": "HTML",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/D3.5-LandscapeAnalysis_NorthAmerica.html"
+      },
+      {
+        "topic": "South America",
+        "type": "HTML",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/D3.5-LandscapeAnalysis_SouthAmerica.html"
+      },
+      {
+        "topic": "Other Regions",
+        "type": "HTML",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/D3.5-RDA-TIGER_Other.html"
+      },
+      {
+        "topic": "Working Groups & Resources",
+        "type": "HTML",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/D3.5-RDA-TIGER_WGs-Resources.html"
+      }
+    ]
   }
 ]
