@@ -20,7 +20,7 @@
       {
         "topic": "Preferred Formats",
         "type": "PDF",
-        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/Preferred%20Formats%20for%20Dissemination%20and%20Preservation%20V1.0.pdf"
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/Preferred%20Formats%20for%20Dissemination%20and%20Preservation%20-%20V1.1.pdf"
       },
       {
         "topic": "Publication of Outputs",
@@ -33,9 +33,19 @@
     "group": "RDA Knowledge Base",
     "materials": [
       {
+        "topic": "Getting to Know the Research Data Alliance (RDA) Knowledge Base",
+        "type": "PDF",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/Get%20to%20Know%20the%20RDA%20Knowledge%20Base%20-%20V1.0.pdf"
+      },
+      {
         "topic": "Knowledge Base Documentation",
         "type": "PDF",
         "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/Knowledge%20Base%20documentation%20-%20V1.1.pdf"
+      },
+      {
+        "topic": "Publisher Guidelines",
+        "type": "PDF",
+        "url": "https://dans-knaw.github.io/RDA-TIGER-PDFs/Publisher%20Guidelines%20-%20V1.0.pdf"
       },
       {
         "topic": "Annotator Support Documentation",
